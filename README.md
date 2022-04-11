@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, my name is Michelle</h1>  
-<h3 align="center">I am a software engineer with a strong background in clinical health care.</h3>  
+<h3 align="center">I am a software engineer with a strong background in clinical healthcare.</h3>  
    
  <br>
 
