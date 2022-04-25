@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, my name is Michelle</h1>  
-<h3 align="center">I am a software engineer with a strong background in clinical healthcare.</h3>  
+<h3 align="center">I am a software developer with a strong background in clinical healthcare.</h3>  
    
  <br>
 
@@ -26,10 +26,10 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>  
 <br/>
 <h3 align="left">Streak Stats:</h3>  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=colombomf&" alt="colombomf" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=colombomf&theme=dark" alt="colombomf" /></p>
 
 <h3 align="left">♡</h3>  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colombomf&show_icons=true&locale=en&layout=compact" alt="colombomf" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colombomf&show_icons=true&theme=dark&locale=en&layout=compact" alt="colombomf" /></p>  
 <br/><br/><br/><br/><br/><br/>
 
 <h1 align="center"></h1>  
