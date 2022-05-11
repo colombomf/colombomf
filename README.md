@@ -37,14 +37,14 @@ status -> reviewing and deploying
 
 ![Nightkap](https://i.imgur.com/nyDdcEb.gif)
 
-![ISSTracker](https://i.imgur.com/9UuHkLe.gif)
+![ISSTracker](https://i.imgur.com/7vsBwlW.gif)
 
 ![Poe-trees](https://imgur.com/gOdjYM5.gif)
 <br/><br/><br/><br/><br/><br/>
 
 <h1 align="center"></h1>  
 <p><a href="https://twitter.com/biokoder" target="blank"><img align="left" src="https://badgen.net/badge/twitter/biokoder/blue" alt="twitter account" height="20" width="130" /></a>  
-<a href="www.linkedin.com/in/michelle-c-97a053230" target="blank"><img align="left" src="https://badgen.net/badge/linkedin/michelle-c-97a053230/blue" alt="linkedin account" height="20" width="130" /></a>  </p>
+<a href="https://www.linkedin.com/in/michelle-c-97a053230/" target="blank"><img align="left" src="https://badgen.net/badge/linkedin/michelle/blue" alt="linkedin account" height="20" width="130" /></a>  </p>
 
 
    
