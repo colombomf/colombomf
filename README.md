@@ -34,7 +34,7 @@
 
 <h3 align="left">Recent Projects</h3>  
 status -> reviewing and deploying
-<br/>
+
 ![Nightkap](https://i.imgur.com/tvqSsk1.gif)
 
 ![ISSTracker](https://i.imgur.com/7vsBwlW.gif)
