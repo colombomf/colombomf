@@ -34,12 +34,12 @@
 
 <h3 align="left">Recent Projects</h3>  
 status -> reviewing and deploying
-
-![Nightkap](https://i.imgur.com/nyDdcEb.gif)
+<br/>
+![Nightkap](https://i.imgur.com/tvqSsk1.gif)
 
 ![ISSTracker](https://i.imgur.com/7vsBwlW.gif)
 
-![Poe-trees](https://imgur.com/gOdjYM5.gif)
+![Poe-trees](https://i.imgur.com/Hklhe7E.gif)
 <br/><br/><br/><br/><br/><br/>
 
 <h1 align="center"></h1>  
