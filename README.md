@@ -111,7 +111,7 @@
 							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
 						</a>	
 					</p>
-					<p><strong>Dental office and laboratory website with a contagious smile gallery and patient testimonials on video. </p>
+					<p><strong>Dental office and laboratory website with a smile gallery and patient testimonials on video. </p>
 </td>
 </tr>
 <!--5-->		
