@@ -32,14 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colombomf&show_icons=true&theme=dark&locale=en&layout=compact" alt="colombomf" /></p>  
 <br/><br/><br/><br/><br/><br/>
 
-<h3 align="left">Recent Projects</h3>  
-status -> reviewing and deploying
-
-![Nightkap](https://i.imgur.com/tvqSsk1.gif)
-
-![ISSTracker](https://i.imgur.com/7vsBwlW.gif)
-
-![Poe-trees](https://i.imgur.com/Hklhe7E.gif)
 <br/><br/><br/><br/><br/><br/>
 
 <h1 align="center"></h1>  
