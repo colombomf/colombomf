@@ -5,8 +5,6 @@
  <br>
 
  ☆ Looking forward to collaborate on open source projects 
-  
- ⁂ Currently going through [100Devs](https://leonnoel.com/100devs/) training program | '22 cohort
 
  💬 Reach me out at **biokoder@pm.me**
   
@@ -31,8 +29,134 @@
 <h3 align="left">♡</h3>  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colombomf&show_icons=true&theme=dark&locale=en&layout=compact" alt="colombomf" /></p>  
 <br/><br/><br/><br/><br/><br/>
-
-<br/><br/><br/><br/><br/><br/>
+<!--Recent Projects-->
+<table>
+<tbody>
+<tr>	
+<!--1-->
+<td width="50%">
+				<h3 align="center" color="white">Vegan Dark-Kitchen</h2>
+					<a href="#">
+						<img src="https://i.imgur.com/xI3MeGw.gif" alt="Vegan Burger Dark Kitchen" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--Description and Links --> 
+						<a href='#'>
+							<img src="https://img.shields.io/badge/-✘ REPO-green?style=for-the-badge&color=303030"/>
+						</a>  
+                        <!--Deployed --> 
+						<a href="#">
+							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
+						</a>	
+					</p>
+					<p><strong>Turning plant-based ingredients into comfort food. Online food ordering integration.</p>
+</td>	
+<!--2 -->
+<td width="50%">
+				<h3 align="center" color="white">Nightkap</h2>
+					<a href="#">
+						<img src="https://i.imgur.com/tvqSsk1.gif" alt="Cocktail Recipes Directory" height="200px"/>
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--Description and Links --> 
+						<a href='#'>
+								<img src="https://img.shields.io/badge/-✓ REPO-green?style=for-the-badge&color=303030"/>
+						</a>  
+                        <!--Deployed --> 
+						<a href="#">
+							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
+						</a>	
+					</p>
+					<p>Are you interested in different drinks? Discover hundreds of new cocktail recipes!</p></td>
+</tr>
+<!--3-->
+<tr>
+<td width="50%">
+				<h3 align="center" color="white">ISS Tracker</h2>
+					<a href="#">
+						<img src="https://i.imgur.com/ejZrl8U.gif" alt="ISS Tracker" height="200px"/>
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--Description and Links --> 
+						<a href='#'>
+							<img src="https://img.shields.io/badge/-✓ REPO-green?style=for-the-badge&color=303030"/>
+						</a>  
+                        <!--Deployed --> 
+						<a href="#">
+							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
+						</a>	
+					</p>
+					<p><strong>Real-time tracking of the International Space Station's location.</p></td>
+<!--4-->					
+<td width="50%">
+				<h3 align="center" color="white">Implaoss</h2>  
+					<a href="#">  
+						<img src="https://i.imgur.com/nUe9AX2.gif" alt="Dental Office and Laboratory" height="200px"/>  
+					</a>  
+				<br>  
+				<br>  
+				<p>
+                        <!--Description and Links --> 
+						<a href="#">
+								<img src="https://img.shields.io/badge/-✘ REPO-green?style=for-the-badge&color=303030"/>
+						</a>  
+                        <!--Deployed --> 
+						<a href="#">
+							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
+						</a>	
+					</p>
+					<p><strong>Dental office and laboratory website with a contagious smile gallery and patient testimonials on video. </p>
+</td>
+</tr>
+<!--5-->		
+<tr>
+<td width="50%">
+				<h3 align="center" color="white">Poe-tree</h2>
+					<a href="#">
+						<img src="https://i.imgur.com/Hklhe7E.gif" alt="Random public domain poems generator." height="200px"/>
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--Description and Links --> 
+						<a href='#'>
+								<img src="https://img.shields.io/badge/-✓ REPO-green?style=for-the-badge&color=303030"/>
+						</a>  
+                        <!--Deployed --> 
+						<a href="#">
+							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
+						</a>	
+					</p>
+					<p><strong>Poems, everybody! We still love them, don't we? Random public domain poems generator.  </p></td>
+<!--6-->		
+<td width="50%">
+				<h3 align="center" color="white">NASA APOD</h2>
+					<a href="#">
+						<img src="https://i.imgur.com/2kCgxpB.gif" alt="NASA Astronomy Picture of the Day" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--Description and Links --> 
+						<a href='#'>
+								<img src="https://img.shields.io/badge/-✓ REPO-green?style=for-the-badge&color=303030"/>
+						</a>  
+                        <!--Deployed --> 
+						<a href="#">
+							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
+						</a>	
+					</p>
+					<p>Dark mode version of NASA Astronomy Picture of the Day. Explore the universe!</p></td>
+</tr>
+</tbody>
+</table>
+<!-- End of Recent Projects -->
 
 <h1 align="center"></h1>  
 <p><a href="https://twitter.com/biokoder" target="blank"><img align="left" src="https://badgen.net/badge/twitter/biokoder/blue" alt="twitter account" height="20" width="130" /></a>  
