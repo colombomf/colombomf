@@ -57,7 +57,7 @@
 <td width="50%">
 				<h3 align="center" color="white">Nightkap</h2>
 					<a href="#">
-						<img src="https://i.imgur.com/tvqSsk1.gif" alt="Cocktail Recipes Directory" height="200px"/>
+						<img src="nightkap.gif" alt="Cocktail Recipes Directory" height="200px"/>
 					</a>
 					<br>
 					<br>
@@ -78,7 +78,7 @@
 <td width="50%">
 				<h3 align="center" color="white">ISS Tracker</h2>
 					<a href="#">
-						<img src="https://i.imgur.com/ejZrl8U.gif" alt="ISS Tracker" height="200px"/>
+						<img src="isstracker.gif" alt="ISS Tracker" height="200px"/>
 					</a>
 					<br>
 					<br>
@@ -97,7 +97,7 @@
 <td width="50%">
 				<h3 align="center" color="white">Implaoss</h2>  
 					<a href="#">  
-						<img src="https://i.imgur.com/nUe9AX2.gif" alt="Dental Office and Laboratory" height="200px"/>  
+						<img src="implaoss.gif" alt="Dental Office and Laboratory" height="200px"/>  
 					</a>  
 				<br>  
 				<br>  
@@ -119,7 +119,7 @@
 <td width="50%">
 				<h3 align="center" color="white">Poe-tree</h2>
 					<a href="#">
-						<img src="https://i.imgur.com/Hklhe7E.gif" alt="Random public domain poems generator." height="200px"/>
+						<img src="poetrees.gif" alt="Random public domain poems generator." height="200px"/>
 					</a>
 					<br>
 					<br>
@@ -138,7 +138,7 @@
 <td width="50%">
 				<h3 align="center" color="white">NASA APOD</h2>
 					<a href="#">
-						<img src="https://i.imgur.com/2kCgxpB.gif" alt="NASA Astronomy Picture of the Day" height="200px" />
+						<img src="nasapod.gif" alt="NASA Astronomy Picture of the Day" height="200px" />
 					</a>
 					<br>
 					<br>
