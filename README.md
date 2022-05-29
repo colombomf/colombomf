@@ -11,24 +11,11 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>  
-<br/>
-<h3 align="left">Streak Stats:</h3>  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=colombomf&theme=dark" alt="colombomf" /></p>
 
 <h3 align="left">♡</h3>  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colombomf&show_icons=true&theme=dark&locale=en&layout=compact" alt="colombomf" /></p>  
 <br/><br/><br/><br/><br/><br/>
+<h3 align="left">Recent Projects:</h3>  
 <!--Recent Projects-->
 <table>
 <tbody>
@@ -56,18 +43,18 @@
 <!--2 -->
 <td width="50%">
 				<h3 align="center" color="white">Nightkap</h2>
-					<a href="#">
+					<a href="https://magnificent-unicorn-6921f1.netlify.app/">
 						<img src="nightkap.gif" alt="Cocktail Recipes Directory" height="200px"/>
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--Description and Links --> 
-						<a href='#'>
+						<a href='https://github.com/colombomf/Nightkap'>
 								<img src="https://img.shields.io/badge/-✓ REPO-green?style=for-the-badge&color=303030"/>
 						</a>  
                         <!--Deployed --> 
-						<a href="#">
+						<a href="https://magnificent-unicorn-6921f1.netlify.app/">
 							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
 						</a>	
 					</p>
@@ -77,18 +64,18 @@
 <tr>
 <td width="50%">
 				<h3 align="center" color="white">ISS Tracker</h2>
-					<a href="#">
+					<a href="https://visionary-croquembouche-963f5b.netlify.app/">
 						<img src="isstracker.gif" alt="ISS Tracker" height="200px"/>
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--Description and Links --> 
-						<a href='#'>
+						<a href='https://github.com/colombomf/ISSTracker'>
 							<img src="https://img.shields.io/badge/-✓ REPO-green?style=for-the-badge&color=303030"/>
 						</a>  
                         <!--Deployed --> 
-						<a href="#">
+						<a href="https://visionary-croquembouche-963f5b.netlify.app/">
 							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
 						</a>	
 					</p>
@@ -118,18 +105,18 @@
 <tr>
 <td width="50%">
 				<h3 align="center" color="white">Poe-tree</h2>
-					<a href="#">
+					<a href="https://glistening-valkyrie-f0ce25.netlify.app/">
 						<img src="poetrees.gif" alt="Random public domain poems generator." height="200px"/>
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--Description and Links --> 
-						<a href='#'>
+						<a href='https://github.com/colombomf/Poetrees'>
 								<img src="https://img.shields.io/badge/-✓ REPO-green?style=for-the-badge&color=303030"/>
 						</a>  
                         <!--Deployed --> 
-						<a href="#">
+						<a href="https://glistening-valkyrie-f0ce25.netlify.app/">
 							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
 						</a>	
 					</p>
@@ -137,18 +124,18 @@
 <!--6-->		
 <td width="50%">
 				<h3 align="center" color="white">NASA APOD</h2>
-					<a href="#">
+					<a href="https://courageous-lolly-709312.netlify.app/">
 						<img src="nasapod.gif" alt="NASA Astronomy Picture of the Day" height="200px" />
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--Description and Links --> 
-						<a href='#'>
+						<a href='https://github.com/colombomf/NASA-APOD'>
 								<img src="https://img.shields.io/badge/-✓ REPO-green?style=for-the-badge&color=303030"/>
 						</a>  
                         <!--Deployed --> 
-						<a href="#">
+						<a href="https://courageous-lolly-709312.netlify.app/">
 							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
 						</a>	
 					</p>
