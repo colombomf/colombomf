@@ -11,9 +11,8 @@
 
 <br>
 
-
 <h3 align="left">♡</h3>  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colombomf&show_icons=true&theme=dark&locale=en&layout=compact" alt="colombomf" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colombomf&show_icons=true&theme=dark&locale=en&layout=compact" alt="colombomf" /></p>  <br>
 <br/><br/><br/><br/><br/><br/>
 <h3 align="left">Recent Projects:</h3>  
 <!--Recent Projects-->
@@ -21,7 +20,7 @@
 <tbody>
 <tr>	
 <!--1-->
-<td width="50%">
+<td width="50%" align="center" >
 				<h3 align="center" color="white">Vegan Dark-Kitchen</h2>
 					<a href="#">
 						<img src="sadarkkitchen.gif" alt="Vegan Burger Dark Kitchen" height="200px" />
@@ -38,10 +37,10 @@
 							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
 						</a>	
 					</p>
-					<p><strong>Turning plant-based ingredients into comfort food. Online food ordering integration.</p>
+					<p><strong>Turning plant-based ingredients into comfort food. Online food ordering integration. </p>
 </td>	
 <!--2 -->
-<td width="50%">
+<td width="50%" align="center" >
 				<h3 align="center" color="white">Nightkap</h2>
 					<a href="https://magnificent-unicorn-6921f1.netlify.app/">
 						<img src="nightkap.gif" alt="Cocktail Recipes Directory" height="200px"/>
@@ -62,7 +61,7 @@
 </tr>
 <!--3-->
 <tr>
-<td width="50%">
+<td width="50%" align="center" >
 				<h3 align="center" color="white">ISS Tracker</h2>
 					<a href="https://visionary-croquembouche-963f5b.netlify.app/">
 						<img src="isstracker.gif" alt="ISS Tracker" height="200px"/>
@@ -79,9 +78,9 @@
 							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
 						</a>	
 					</p>
-					<p><strong>Real-time tracking of the International Space Station's location.</p></td>
+					<p><strong>Real-time tracking of the International Space Station's (ISS) location.</p></td>
 <!--4-->					
-<td width="50%">
+<td width="50%" align="center" >
 				<h3 align="center" color="white">Implaoss</h2>  
 					<a href="#">  
 						<img src="implaoss.gif" alt="Dental Office and Laboratory" height="200px"/>  
@@ -103,7 +102,7 @@
 </tr>
 <!--5-->		
 <tr>
-<td width="50%">
+<td width="50%" align="center" >
 				<h3 align="center" color="white">Poe-tree</h2>
 					<a href="https://glistening-valkyrie-f0ce25.netlify.app/">
 						<img src="poetrees.gif" alt="Random public domain poems generator." height="200px"/>
@@ -122,7 +121,7 @@
 					</p>
 					<p><strong>Poems, everybody! We still love them, don't we? Random public domain poems generator.  </p></td>
 <!--6-->		
-<td width="50%">
+<td width="50%" align="center" >
 				<h3 align="center" color="white">NASA APOD</h2>
 					<a href="https://courageous-lolly-709312.netlify.app/">
 						<img src="nasapod.gif" alt="NASA Astronomy Picture of the Day" height="200px" />
