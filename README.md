@@ -42,18 +42,18 @@
 <!--2 -->
 <td width="50%" align="center" >
 				<h3 align="center" color="white">Nightkap</h2>
-					<a href="https://magnificent-unicorn-6921f1.netlify.app/">
+					<a href="https://magnificent-unicorn-6921f1.netlify.app/" target="_blank">
 						<img src="nightkap.gif" alt="Cocktail Recipes Directory" height="200px"/>
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--Description and Links --> 
-						<a href='https://github.com/colombomf/Nightkap'>
+						<a href='https://github.com/colombomf/Nightkap' target="_blank">
 								<img src="https://img.shields.io/badge/-✓ REPO-green?style=for-the-badge&color=303030"/>
 						</a>  
                         <!--Deployed --> 
-						<a href="https://magnificent-unicorn-6921f1.netlify.app/">
+						<a href="https://magnificent-unicorn-6921f1.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
 						</a>	
 					</p>
@@ -63,18 +63,18 @@
 <tr>
 <td width="50%" align="center" >
 				<h3 align="center" color="white">ISS Tracker</h2>
-					<a href="https://visionary-croquembouche-963f5b.netlify.app/">
+					<a href="https://visionary-croquembouche-963f5b.netlify.app/" target="_blank">
 						<img src="isstracker.gif" alt="ISS Tracker" height="200px"/>
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--Description and Links --> 
-						<a href='https://github.com/colombomf/ISSTracker'>
+						<a href='https://github.com/colombomf/ISSTracker' target="_blank">
 							<img src="https://img.shields.io/badge/-✓ REPO-green?style=for-the-badge&color=303030"/>
 						</a>  
                         <!--Deployed --> 
-						<a href="https://visionary-croquembouche-963f5b.netlify.app/">
+						<a href="https://visionary-croquembouche-963f5b.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
 						</a>	
 					</p>
@@ -104,18 +104,18 @@
 <tr>
 <td width="50%" align="center" >
 				<h3 align="center" color="white">Poe-tree</h2>
-					<a href="https://glistening-valkyrie-f0ce25.netlify.app/">
+					<a href="https://glistening-valkyrie-f0ce25.netlify.app/" target="_blank">
 						<img src="poetrees.gif" alt="Random public domain poems generator." height="200px"/>
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--Description and Links --> 
-						<a href='https://github.com/colombomf/Poetrees'>
+						<a href='https://github.com/colombomf/Poetrees' target="_blank">
 								<img src="https://img.shields.io/badge/-✓ REPO-green?style=for-the-badge&color=303030"/>
 						</a>  
                         <!--Deployed --> 
-						<a href="https://glistening-valkyrie-f0ce25.netlify.app/">
+						<a href="https://glistening-valkyrie-f0ce25.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
 						</a>	
 					</p>
@@ -123,18 +123,18 @@
 <!--6-->		
 <td width="50%" align="center" >
 				<h3 align="center" color="white">NASA APOD</h2>
-					<a href="https://courageous-lolly-709312.netlify.app/">
+					<a href="https://courageous-lolly-709312.netlify.app/" target="_blank">
 						<img src="nasapod.gif" alt="NASA Astronomy Picture of the Day" height="200px" />
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--Description and Links --> 
-						<a href='https://github.com/colombomf/NASA-APOD'>
+						<a href='https://github.com/colombomf/NASA-APOD' target="_blank">
 								<img src="https://img.shields.io/badge/-✓ REPO-green?style=for-the-badge&color=303030"/>
 						</a>  
                         <!--Deployed --> 
-						<a href="https://courageous-lolly-709312.netlify.app/">
+						<a href="https://courageous-lolly-709312.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-✓ URL-green?style=for-the-badge&color=303030"/>
 						</a>	
 					</p>
