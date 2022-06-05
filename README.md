@@ -1,5 +1,6 @@
 
-<img src="https://i.imgur.com/iikFXkk.png" width="100%"><h1 align="center">Hello, my name is Michelle</h1>  
+<!--<img src="" width="100%">-->
+<h1 align="center">Hello, my name is Michelle</h1>  
 <h3 align="center">I am a software developer with a strong background in clinical healthcare.</h3>  
    
  <br>
