@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, my name is Michelle</h1>  
+<img src="https://i.imgur.com/iikFXkk.png" width="100%"><h1 align="center">Hello, my name is Michelle</h1>  
 <h3 align="center">I am a software developer with a strong background in clinical healthcare.</h3>  
    
  <br>
@@ -42,7 +42,7 @@
 <!--2 -->
 <td width="50%" align="center" >
 				<h3 align="center" color="white">Nightkap</h2>
-					<a href="https://magnificent-unicorn-6921f1.netlify.app/" target="_blank">
+					<a href="https://magnificent-unicorn-6921f1.netlify.app/ target="_blank"" target="_blank">
 						<img src="nightkap.gif" alt="Cocktail Recipes Directory" height="200px"/>
 					</a>
 					<br>
@@ -104,7 +104,7 @@
 <tr>
 <td width="50%" align="center" >
 				<h3 align="center" color="white">Poe-tree</h2>
-					<a href="https://glistening-valkyrie-f0ce25.netlify.app/" target="_blank">
+					<a href="https://glistening-valkyrie-f0ce25.netlify.app/ target="_blank"" target="_blank">
 						<img src="poetrees.gif" alt="Random public domain poems generator." height="200px"/>
 					</a>
 					<br>
