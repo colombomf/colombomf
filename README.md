@@ -14,7 +14,7 @@ I’m a software developer with a clinical healthcare background, mostly working
 
 #### Selected work (production)
 
-- **TrackDataPad** — a small SaaS focused on automating license traceability and dispute support for creators  
+- **TrackDataPad** — a small SaaS focused on automating attribution records and dispute workflows for creators 
  ↳ production system · private codebase · https://trackdatapad.com
 
 - **LoopStatic** — a small studio where I design, build, and deploy client-facing systems  
