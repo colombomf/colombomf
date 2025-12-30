@@ -5,7 +5,7 @@ I’m a software developer with a clinical healthcare background, mostly working
 
 #### ♡ Beyond code
 | 🧙🏻‍♀️ | 🌱 | 🐾 | 🎧 |💻 | 🕹️ | 🎸 |📚|
-| - | - | - | - | - | - | - |
+| - | - | - | - | - | - | - | - |
 
 #### What I’m usually working on
 - tools that sit between humans and complex systems  
